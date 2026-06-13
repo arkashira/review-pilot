@@ -1,0 +1,20 @@
+[
+    {
+        "platform": "Google Play",
+        "app_name": "App1",
+        "rating": 4.5,
+        "text": "Great app!"
+    },
+    {
+        "platform": "Google Play",
+        "app_name": "App1",
+        "rating": 4.5,
+        "text": "Great app!"
+    },
+    {
+        "platform": "Apple App Store",
+        "app_name": "App2",
+        "rating": 4.0,
+        "text": "Good app."
+    }
+]
