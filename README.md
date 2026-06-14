@@ -1,15 +1,8 @@
 # Review Pilot
-
-A simple review aggregation system.
+Review aggregation pipeline from app stores and SaaS platforms.
 
 ## Usage
-
 1. Create a `ReviewPilot` instance.
-2. Add reviews using the `add_review` method.
-3. Aggregate reviews using the `aggregate_reviews` method.
-4. Save reviews to a file using the `save_reviews` method.
-5. Load reviews from a file using the `load_reviews` method.
-
-## Testing
-
-Run tests using `python -m pytest`.
+2. Ingest reviews using `ingest_review`.
+3. Save reviews to a file using `save_reviews`.
+4. Load reviews from a file using `load_reviews`.
